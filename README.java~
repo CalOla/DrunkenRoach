@@ -1,0 +1,1 @@
+A java application that tracks the movement of a cockroach on a tiled floor. The user select the dimension of the tiles which is represented by a 2 dimensional matrix. The game ends either when the roach has touched all the tiles atleast once or when the roach has made more than 50,000 moves. 
